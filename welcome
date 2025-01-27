@@ -1,0 +1,41 @@
+#!/bin/bash
+
+echo "what is your name"
+
+read name 
+
+sleep 2
+
+echo "Good Day! $name"
+
+sleep 2 
+
+echo "How you are doing $name"
+
+read input
+
+sleep 1
+
+echo "Wow! $input1"
+
+sleep 1
+
+echo " $name I am going to say you one thing listin carefully"
+
+sleep 2
+
+echo " Once a Wise main said"
+
+sleep 2
+
+echo " Trust No one.."
+
+sleep 1
+echo "              Kill any one.."
+sleep 1       
+echo "                     Be only one.."
+sleep 2
+
+echo " I hope you will remember this. Thanks"
+sleep 2
+echo " Bye :) $name"
